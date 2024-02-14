@@ -1,0 +1,9 @@
+[submodule "iac-pulumi"]
+	path = iac-pulumi
+	url = git@github.com:CSYE-6225-Anshul/iac-pulumi.git
+[submodule "webapp"]
+	path = webapp
+	url = git@github.com:CSYE-6225-Anshul/webapp.git
+[submodule "serverless"]
+	path = serverless
+	url = git@github.com:CSYE-6225-Anshul/serverless.git
